@@ -12,6 +12,10 @@ three playable prototypes and a user study with 20 participants (10 pairs).
 
 ![Pushing the cube at the start of the level](Docs/screenshot-1.jpg)
 
+## Download
+
+A playable **Windows (64-bit) build** is available in the [latest release](https://github.com/Catcrac/TFG_Prototype_2/releases/latest): download `TFG_Prototype_2_Windows_x64.zip`, unzip it and run the `.exe`. One player hosts and shares the **join code**; the other enters it to join (internet connection required).
+
 ## What this prototype tests
 
 Focus: **planning** and **communication** to modify the environment and escape the room.
@@ -33,7 +37,7 @@ Focus: **planning** and **communication** to modify the environment and escape t
 | Sprint | Left Shift |
 | Jump | Space |
 
-## Running it
+## Running it from source
 
 1. Open the project with **Unity 2022.3.29f1**.
 2. Link it to your own Unity Gaming Services project (Edit → Project Settings → Services) and enable **Relay**: the original project ID belongs to my account.
